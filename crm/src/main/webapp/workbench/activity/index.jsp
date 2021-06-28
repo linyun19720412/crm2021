@@ -27,6 +27,7 @@ String basePath = request.getScheme() + "://" + request.getServerName() + ":" + 
                 url:"workbench/activity/getUserList.do",
                 data:{
 
+
                 },
                 type:"get",
                 dataType:"json",
